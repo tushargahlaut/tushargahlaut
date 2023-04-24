@@ -18,7 +18,7 @@
 
 - A passionate Self-taught Full Stack Developer
 - Currently learning React Native and Web Development
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1qaLn03_MSnu3LnwT-znhx8bZewkzJrvs/view?usp=sharing)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1JMEy707FGezradSqJ75grzQ_5F0giNFm/view?usp=share_link)
 
 <br><br>
 
