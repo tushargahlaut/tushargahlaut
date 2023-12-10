@@ -73,7 +73,8 @@
 	
 <br>
 
-
+- **Message Brokers**
+  ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 
 
 - **Softwares and Tools**:
